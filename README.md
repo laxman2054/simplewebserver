@@ -42,7 +42,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![2022-12-02 (1)](https://user-images.githubusercontent.com/118680826/214942556-c1f2fc68-5ce9-488c-8e04-c8a5881bb413.png)
+![2022-12-02 (2)](https://user-images.githubusercontent.com/118680826/214942765-4777c991-f6af-466f-87f1-667c9418bcf7.png)
+
 
 
 ## RESULT:
